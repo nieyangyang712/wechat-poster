@@ -1,0 +1,4 @@
+<view class='btn' bindtap='getSharePoster'>生成海报</view>
+<my-poster id="getPoster" bindmyevent="myEventListener"
+  avater="https://feed-image.baidu.com/0/pic/12f83ad2db6863359898237b8f3149c7.jpg"
+  codeimg="https://ndd712.cn/other-img/other-01.png" price="1111" productname="名称"></my-poster>
